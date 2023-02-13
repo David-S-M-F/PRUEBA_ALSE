@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Promedio_10_num.dir/Programa_10_num.cpp.o -o Promedio_10_num 
